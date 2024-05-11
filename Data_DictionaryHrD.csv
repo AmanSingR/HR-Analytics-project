@@ -1,0 +1,39 @@
+Data Dictionary,
+Attrition, Binary variable indicating whether an employee has left the company (Yes/No).
+Business Travel," Frequency of employee business travel (e.g., Travel_Rarely, Travel_Frequently, Non-Travel)."
+CF_age band, Categorical variable representing different age groups or bands.
+CF_attrition label," Categorical label for attrition (e.g., Attrition, No Attrition)."
+Department," The department in which the employee works (e.g., Sales, Human Resources, Research & Development)."
+Education Field," Field of education of the employee (e.g., Life Sciences, Medical, Marketing)."
+emp no / Employee Number, Unique identifier for each employee.
+Gender," Gender of the employee (e.g., Male, Female)."
+Job Role, Specific role or position of the employee within the company.
+Marital Status," Marital status of the employee (e.g., Single, Married, Divorced)."
+Over Time, Whether the employee works overtime (Yes/No).
+Over18, Binary variable indicating if the employee is over 18 years old (Yes/No).
+Training Times Last Year, Number of times the employee was trained last year.
+Age, Age of the employee.
+CF_current Employee, Binary variable indicating if the employee is currently employed (Yes/No).
+Daily Rate, Daily salary rate of the employee.
+Distance From Home, Distance of the employee's residence from the workplace.
+Education," Level of education attained by the employee (e.g., Bachelor's, Master's, Doctorate)."
+Employee Count, Number of employees (typically a constant value for all records).
+Environment Satisfaction, Level of satisfaction with the work environment.
+Hourly Rate, Hourly salary rate of the employee.
+Job Involvement, Level of involvement or engagement in the job.
+Job Level, Level of the employee's job within the company hierarchy.
+Job Satisfaction, Level of satisfaction with the job.
+Monthly Income, Monthly income of the employee.
+Monthly Rate, Monthly salary rate of the employee.
+Num Companies Worked, Number of companies the employee has worked for.
+Percent Salary Hike, Percentage increase in salary compared to the previous year.
+Performance Rating, Rating of the employee's performance.
+Relationship Satisfaction, Level of satisfaction with relationships at work.
+Standard Hours, Standard working hours per day.
+Stock Option Level, Level of stock options granted to the employee.
+Total Working Years, Total number of years the employee has worked.
+Work Life Balance, Level of balance between work and personal life.
+Years At Company, Number of years the employee has been with the current company.
+Years In Current Role, Number of years the employee has been in the current role.
+Years Since Last Promotion, Number of years since the employee's last promotion.
+Years With Curr Manager, Number of years the employee has been with the current manager
